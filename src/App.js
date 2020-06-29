@@ -1,26 +1,20 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import {BrowserRouter as Router, Switch, Route, Redirect, Link} from 'react-router-dom'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+import PeopleList from './components/People/List'
+import PeopleDetails from './components/People/Details'
 
-export default App;
+const App = () => <div className="app">
+  <Router>
+    <Switch>
+      <Route exact path="/">
+        <Redirect to="/people" />
+      </Route>
+
+      <Route exact path="/people" component={PeopleList} />
+      <Route exact path="/people/:id" component={PeopleDetails} />
+    </Switch>
+  </Router>
+</div>
+
+export default App

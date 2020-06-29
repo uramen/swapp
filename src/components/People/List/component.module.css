@@ -1,0 +1,58 @@
+.people {
+    display: flex;
+    justify-content: center;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background-color: #f6f6f6;
+    width: 300px;
+}
+
+.filters {
+    padding: 10px;
+}
+
+.filters .item {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.filterTitle {
+    margin-right: 25px;
+}
+
+.birthdayRange {
+    display: flex;
+    flex-direction: column;
+}
+
+.birthdayRange input {
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.favorites {
+    width: 300px;
+    background-color: #ffa50059;
+    border: 2px dashed #fbb647;
+}
+
+.removeFavorite {
+    padding: 5px;
+    background-color: darkred;
+    color: #f6f6f6;
+}
+
+.favoriteItem {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.peopleItem {
+    margin-bottom: 10px;
+}

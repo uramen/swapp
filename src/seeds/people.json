@@ -1,0 +1,927 @@
+[
+  {
+    "name": "Luke Skywalker",
+    "height": "172",
+    "mass": "77",
+    "hair_color": "blond",
+    "skin_color": "fair",
+    "eye_color": "blue",
+    "birth_year": "19BBY",
+    "gender": "male",
+    "picture": "https://i.redd.it/2qmnb44sbt7z.jpg",
+    "films": [
+      { "title": "A New Hope",
+        "episode_id": 4,
+        "opening_crawl": "It is a period of civil war.\r\nRebel spaceships, striking\r\nfrom a hidden base, have won\r\ntheir first victory against\r\nthe evil Galactic Empire.\r\n\r\nDuring the battle, Rebel\r\nspies managed to steal secret\r\nplans to the Empire's\r\nultimate weapon, the DEATH\r\nSTAR, an armored space\r\nstation with enough power\r\nto destroy an entire planet.\r\n\r\nPursued by the Empire's\r\nsinister agents, Princess\r\nLeia races home aboard her\r\nstarship, custodian of the\r\nstolen plans that can save her\r\npeople and restore\r\nfreedom to the galaxy....",
+        "director": "George Lucas",
+        "producer": "Gary Kurtz, Rick McCallum",
+        "release_date": "1977-05-25"
+      },
+      {
+        "title": "The Empire Strikes Back",
+        "episode_id": 5,
+        "opening_crawl": "It is a dark time for the\r\nRebellion. Although the Death\r\nStar has been destroyed,\r\nImperial troops have driven the\r\nRebel forces from their hidden\r\nbase and pursued them across\r\nthe galaxy.\r\n\r\nEvading the dreaded Imperial\r\nStarfleet, a group of freedom\r\nfighters led by Luke Skywalker\r\nhas established a new secret\r\nbase on the remote ice world\r\nof Hoth.\r\n\r\nThe evil lord Darth Vader,\r\nobsessed with finding young\r\nSkywalker, has dispatched\r\nthousands of remote probes into\r\nthe far reaches of space....",
+        "director": "Irvin Kershner",
+        "producer": "Gary Kurtz, Rick McCallum",
+        "release_date": "1980-05-17"
+      },
+      {
+        "title": "Return of the Jedi",
+        "episode_id": 6,
+        "opening_crawl": "Luke Skywalker has returned to\r\nhis home planet of Tatooine in\r\nan attempt to rescue his\r\nfriend Han Solo from the\r\nclutches of the vile gangster\r\nJabba the Hutt.\r\n\r\nLittle does Luke know that the\r\nGALACTIC EMPIRE has secretly\r\nbegun construction on a new\r\narmored space station even\r\nmore powerful than the first\r\ndreaded Death Star.\r\n\r\nWhen completed, this ultimate\r\nweapon will spell certain doom\r\nfor the small band of rebels\r\nstruggling to restore freedom\r\nto the galaxy...",
+        "director": "Richard Marquand",
+        "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+        "release_date": "1983-05-25"
+      },
+      {
+        "title": "Revenge of the Sith",
+        "episode_id": 3,
+        "opening_crawl": "War! The Republic is crumbling\r\nunder attacks by the ruthless\r\nSith Lord, Count Dooku.\r\nThere are heroes on both sides.\r\nEvil is everywhere.\r\n\r\nIn a stunning move, the\r\nfiendish droid leader, General\r\nGrievous, has swept into the\r\nRepublic capital and kidnapped\r\nChancellor Palpatine, leader of\r\nthe Galactic Senate.\r\n\r\nAs the Separatist Droid Army\r\nattempts to flee the besieged\r\ncapital with their valuable\r\nhostage, two Jedi Knights lead a\r\ndesperate mission to rescue the\r\ncaptive Chancellor....",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "release_date": "2005-05-19"
+      }
+    ],
+    "species": [],
+    "vehicles": [
+      {
+        "name": "Snowspeeder",
+        "model": "t-47 airspeeder",
+        "manufacturer": "Incom corporation",
+        "cost_in_credits": "unknown",
+        "length": "4.5",
+        "max_atmosphering_speed": "650",
+        "crew": "2",
+        "passengers": "0",
+        "cargo_capacity": "10",
+        "consumables": "none",
+        "vehicle_class": "airspeeder",
+        "pilots": [
+          "http://swapi.dev/api/people/1/",
+          "http://swapi.dev/api/people/18/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/2/"
+        ],
+        "created": "2014-12-15T12:22:12Z",
+        "edited": "2014-12-20T21:30:21.672000Z",
+        "url": "http://swapi.dev/api/vehicles/14/"
+      },
+      {
+        "name": "Imperial Speeder Bike",
+        "model": "74-Z speeder bike",
+        "manufacturer": "Aratech Repulsor Company",
+        "cost_in_credits": "8000",
+        "length": "3",
+        "max_atmosphering_speed": "360",
+        "crew": "1",
+        "passengers": "1",
+        "cargo_capacity": "4",
+        "consumables": "1 day",
+        "vehicle_class": "speeder",
+        "pilots": [
+          "http://swapi.dev/api/people/1/",
+          "http://swapi.dev/api/people/5/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/3/"
+        ],
+        "created": "2014-12-18T11:20:04.625000Z",
+        "edited": "2014-12-20T21:30:21.693000Z",
+        "url": "http://swapi.dev/api/vehicles/30/"
+      }
+    ],
+    "starships": [
+      {
+        "name": "X-wing",
+        "model": "T-65 X-wing",
+        "manufacturer": "Incom Corporation",
+        "cost_in_credits": "149999",
+        "length": "12.5",
+        "max_atmosphering_speed": "1050",
+        "crew": "1",
+        "passengers": "0",
+        "cargo_capacity": "110",
+        "consumables": "1 week",
+        "hyperdrive_rating": "1.0",
+        "MGLT": "100",
+        "starship_class": "Starfighter",
+        "pilots": [
+          "http://swapi.dev/api/people/1/",
+          "http://swapi.dev/api/people/9/",
+          "http://swapi.dev/api/people/18/",
+          "http://swapi.dev/api/people/19/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/1/",
+          "http://swapi.dev/api/films/2/",
+          "http://swapi.dev/api/films/3/"
+        ],
+        "created": "2014-12-12T11:19:05.340000Z",
+        "edited": "2014-12-20T21:23:49.886000Z",
+        "url": "http://swapi.dev/api/starships/12/"
+      },
+      {
+        "name": "Imperial shuttle",
+        "model": "Lambda-class T-4a shuttle",
+        "manufacturer": "Sienar Fleet Systems",
+        "cost_in_credits": "240000",
+        "length": "20",
+        "max_atmosphering_speed": "850",
+        "crew": "6",
+        "passengers": "20",
+        "cargo_capacity": "80000",
+        "consumables": "2 months",
+        "hyperdrive_rating": "1.0",
+        "MGLT": "50",
+        "starship_class": "Armed government transport",
+        "pilots": [
+          "http://swapi.dev/api/people/1/",
+          "http://swapi.dev/api/people/13/",
+          "http://swapi.dev/api/people/14/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/2/",
+          "http://swapi.dev/api/films/3/"
+        ],
+        "created": "2014-12-15T13:04:47.235000Z",
+        "edited": "2014-12-20T21:23:49.900000Z",
+        "url": "http://swapi.dev/api/starships/22/"
+      }
+    ],
+    "created": "2014-12-09T13:50:51.644000Z",
+    "edited": "2014-12-20T21:17:56.891000Z",
+    "url": "http://swapi.dev/api/people/1/"
+  },
+  {
+    "name": "C-3PO",
+    "height": "167",
+    "mass": "75",
+    "picture": "https://upload.wikimedia.org/wikipedia/ru/thumb/1/11/C3POpromo.jpg/200px-C3POpromo.jpg",
+    "hair_color": "n/a",
+    "skin_color": "gold",
+    "eye_color": "yellow",
+    "birth_year": "112BBY",
+    "gender": "n/a",
+    "homeworld": "http://swapi.dev/api/planets/1/",
+    "films": [
+      {
+        "title": "A New Hope",
+        "episode_id": 4,
+        "opening_crawl": "It is a period of civil war.\r\nRebel spaceships, striking\r\nfrom a hidden base, have won\r\ntheir first victory against\r\nthe evil Galactic Empire.\r\n\r\nDuring the battle, Rebel\r\nspies managed to steal secret\r\nplans to the Empire's\r\nultimate weapon, the DEATH\r\nSTAR, an armored space\r\nstation with enough power\r\nto destroy an entire planet.\r\n\r\nPursued by the Empire's\r\nsinister agents, Princess\r\nLeia races home aboard her\r\nstarship, custodian of the\r\nstolen plans that can save her\r\npeople and restore\r\nfreedom to the galaxy....",
+        "director": "George Lucas",
+        "producer": "Gary Kurtz, Rick McCallum",
+        "release_date": "1977-05-25"
+      },
+      {
+        "title": "The Empire Strikes Back",
+        "episode_id": 5,
+        "opening_crawl": "It is a dark time for the\r\nRebellion. Although the Death\r\nStar has been destroyed,\r\nImperial troops have driven the\r\nRebel forces from their hidden\r\nbase and pursued them across\r\nthe galaxy.\r\n\r\nEvading the dreaded Imperial\r\nStarfleet, a group of freedom\r\nfighters led by Luke Skywalker\r\nhas established a new secret\r\nbase on the remote ice world\r\nof Hoth.\r\n\r\nThe evil lord Darth Vader,\r\nobsessed with finding young\r\nSkywalker, has dispatched\r\nthousands of remote probes into\r\nthe far reaches of space....",
+        "director": "Irvin Kershner",
+        "producer": "Gary Kurtz, Rick McCallum",
+        "release_date": "1980-05-17"
+      },
+      {
+        "title": "Return of the Jedi",
+        "episode_id": 6,
+        "opening_crawl": "Luke Skywalker has returned to\r\nhis home planet of Tatooine in\r\nan attempt to rescue his\r\nfriend Han Solo from the\r\nclutches of the vile gangster\r\nJabba the Hutt.\r\n\r\nLittle does Luke know that the\r\nGALACTIC EMPIRE has secretly\r\nbegun construction on a new\r\narmored space station even\r\nmore powerful than the first\r\ndreaded Death Star.\r\n\r\nWhen completed, this ultimate\r\nweapon will spell certain doom\r\nfor the small band of rebels\r\nstruggling to restore freedom\r\nto the galaxy...",
+        "director": "Richard Marquand",
+        "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+        "release_date": "1983-05-25"
+      },
+      {
+        "title": "The Phantom Menace",
+        "episode_id": 1,
+        "opening_crawl": "Turmoil has engulfed the\r\nGalactic Republic. The taxation\r\nof trade routes to outlying star\r\nsystems is in dispute.\r\n\r\nHoping to resolve the matter\r\nwith a blockade of deadly\r\nbattleships, the greedy Trade\r\nFederation has stopped all\r\nshipping to the small planet\r\nof Naboo.\r\n\r\nWhile the Congress of the\r\nRepublic endlessly debates\r\nthis alarming chain of events,\r\nthe Supreme Chancellor has\r\nsecretly dispatched two Jedi\r\nKnights, the guardians of\r\npeace and justice in the\r\ngalaxy, to settle the conflict....",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "release_date": "1999-05-19"
+      },
+      {
+        "title": "Attack of the Clones",
+        "episode_id": 2,
+        "opening_crawl": "There is unrest in the Galactic\r\nSenate. Several thousand solar\r\nsystems have declared their\r\nintentions to leave the Republic.\r\n\r\nThis separatist movement,\r\nunder the leadership of the\r\nmysterious Count Dooku, has\r\nmade it difficult for the limited\r\nnumber of Jedi Knights to maintain \r\npeace and order in the galaxy.\r\n\r\nSenator Amidala, the former\r\nQueen of Naboo, is returning\r\nto the Galactic Senate to vote\r\non the critical issue of creating\r\nan ARMY OF THE REPUBLIC\r\nto assist the overwhelmed\r\nJedi....",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "release_date": "2002-05-16"
+      },
+      {
+        "title": "Revenge of the Sith",
+        "episode_id": 3,
+        "opening_crawl": "War! The Republic is crumbling\r\nunder attacks by the ruthless\r\nSith Lord, Count Dooku.\r\nThere are heroes on both sides.\r\nEvil is everywhere.\r\n\r\nIn a stunning move, the\r\nfiendish droid leader, General\r\nGrievous, has swept into the\r\nRepublic capital and kidnapped\r\nChancellor Palpatine, leader of\r\nthe Galactic Senate.\r\n\r\nAs the Separatist Droid Army\r\nattempts to flee the besieged\r\ncapital with their valuable\r\nhostage, two Jedi Knights lead a\r\ndesperate mission to rescue the\r\ncaptive Chancellor....",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "release_date": "2005-05-19"
+      }
+    ],
+    "species": [
+      {
+        "name": "Droid",
+        "classification": "artificial",
+        "designation": "sentient",
+        "average_height": "n/a",
+        "skin_colors": "n/a",
+        "hair_colors": "n/a",
+        "eye_colors": "n/a",
+        "average_lifespan": "indefinite",
+        "homeworld": null,
+        "language": "n/a",
+        "people": [
+          "http://swapi.dev/api/people/2/",
+          "http://swapi.dev/api/people/3/",
+          "http://swapi.dev/api/people/8/",
+          "http://swapi.dev/api/people/23/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/1/",
+          "http://swapi.dev/api/films/2/",
+          "http://swapi.dev/api/films/3/",
+          "http://swapi.dev/api/films/4/",
+          "http://swapi.dev/api/films/5/",
+          "http://swapi.dev/api/films/6/"
+        ],
+        "created": "2014-12-10T15:16:16.259000Z",
+        "edited": "2014-12-20T21:36:42.139000Z",
+        "url": "http://swapi.dev/api/species/2/"
+      }
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-10T15:10:51.357000Z",
+    "edited": "2014-12-20T21:17:50.309000Z",
+    "url": "http://swapi.dev/api/people/2/"
+  },
+  {
+    "name": "R2-D2",
+    "height": "96",
+    "mass": "32",
+    "hair_color": "n/a",
+    "skin_color": "white, blue",
+    "picture": "https://img2.ntv.ru/home/news/20170629/R2-D2__vs.jpg",
+    "eye_color": "red",
+    "birth_year": "33BBY",
+    "gender": "n/a",
+    "homeworld": "http://swapi.dev/api/planets/8/",
+    "films": [
+      {
+        "title": "A New Hope",
+        "episode_id": 4,
+        "opening_crawl": "It is a period of civil war.\r\nRebel spaceships, striking\r\nfrom a hidden base, have won\r\ntheir first victory against\r\nthe evil Galactic Empire.\r\n\r\nDuring the battle, Rebel\r\nspies managed to steal secret\r\nplans to the Empire's\r\nultimate weapon, the DEATH\r\nSTAR, an armored space\r\nstation with enough power\r\nto destroy an entire planet.\r\n\r\nPursued by the Empire's\r\nsinister agents, Princess\r\nLeia races home aboard her\r\nstarship, custodian of the\r\nstolen plans that can save her\r\npeople and restore\r\nfreedom to the galaxy....",
+        "director": "George Lucas",
+        "producer": "Gary Kurtz, Rick McCallum",
+        "release_date": "1977-05-25"
+      },
+      {
+        "title": "The Empire Strikes Back",
+        "episode_id": 5,
+        "opening_crawl": "It is a dark time for the\r\nRebellion. Although the Death\r\nStar has been destroyed,\r\nImperial troops have driven the\r\nRebel forces from their hidden\r\nbase and pursued them across\r\nthe galaxy.\r\n\r\nEvading the dreaded Imperial\r\nStarfleet, a group of freedom\r\nfighters led by Luke Skywalker\r\nhas established a new secret\r\nbase on the remote ice world\r\nof Hoth.\r\n\r\nThe evil lord Darth Vader,\r\nobsessed with finding young\r\nSkywalker, has dispatched\r\nthousands of remote probes into\r\nthe far reaches of space....",
+        "director": "Irvin Kershner",
+        "producer": "Gary Kurtz, Rick McCallum",
+        "release_date": "1980-05-17"
+      },
+      {
+        "title": "Return of the Jedi",
+        "episode_id": 6,
+        "opening_crawl": "Luke Skywalker has returned to\r\nhis home planet of Tatooine in\r\nan attempt to rescue his\r\nfriend Han Solo from the\r\nclutches of the vile gangster\r\nJabba the Hutt.\r\n\r\nLittle does Luke know that the\r\nGALACTIC EMPIRE has secretly\r\nbegun construction on a new\r\narmored space station even\r\nmore powerful than the first\r\ndreaded Death Star.\r\n\r\nWhen completed, this ultimate\r\nweapon will spell certain doom\r\nfor the small band of rebels\r\nstruggling to restore freedom\r\nto the galaxy...",
+        "director": "Richard Marquand",
+        "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+        "release_date": "1983-05-25"
+      },
+      {
+        "title": "The Phantom Menace",
+        "episode_id": 1,
+        "opening_crawl": "Turmoil has engulfed the\r\nGalactic Republic. The taxation\r\nof trade routes to outlying star\r\nsystems is in dispute.\r\n\r\nHoping to resolve the matter\r\nwith a blockade of deadly\r\nbattleships, the greedy Trade\r\nFederation has stopped all\r\nshipping to the small planet\r\nof Naboo.\r\n\r\nWhile the Congress of the\r\nRepublic endlessly debates\r\nthis alarming chain of events,\r\nthe Supreme Chancellor has\r\nsecretly dispatched two Jedi\r\nKnights, the guardians of\r\npeace and justice in the\r\ngalaxy, to settle the conflict....",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "release_date": "1999-05-19"
+      },
+      {
+        "title": "Attack of the Clones",
+        "episode_id": 2,
+        "opening_crawl": "There is unrest in the Galactic\r\nSenate. Several thousand solar\r\nsystems have declared their\r\nintentions to leave the Republic.\r\n\r\nThis separatist movement,\r\nunder the leadership of the\r\nmysterious Count Dooku, has\r\nmade it difficult for the limited\r\nnumber of Jedi Knights to maintain \r\npeace and order in the galaxy.\r\n\r\nSenator Amidala, the former\r\nQueen of Naboo, is returning\r\nto the Galactic Senate to vote\r\non the critical issue of creating\r\nan ARMY OF THE REPUBLIC\r\nto assist the overwhelmed\r\nJedi....",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "release_date": "2002-05-16"
+      },
+      {
+        "title": "Revenge of the Sith",
+        "episode_id": 3,
+        "opening_crawl": "War! The Republic is crumbling\r\nunder attacks by the ruthless\r\nSith Lord, Count Dooku.\r\nThere are heroes on both sides.\r\nEvil is everywhere.\r\n\r\nIn a stunning move, the\r\nfiendish droid leader, General\r\nGrievous, has swept into the\r\nRepublic capital and kidnapped\r\nChancellor Palpatine, leader of\r\nthe Galactic Senate.\r\n\r\nAs the Separatist Droid Army\r\nattempts to flee the besieged\r\ncapital with their valuable\r\nhostage, two Jedi Knights lead a\r\ndesperate mission to rescue the\r\ncaptive Chancellor....",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "release_date": "2005-05-19"
+      }
+    ],
+    "species": [
+      {
+        "name": "Droid",
+        "classification": "artificial",
+        "designation": "sentient",
+        "average_height": "n/a",
+        "skin_colors": "n/a",
+        "hair_colors": "n/a",
+        "eye_colors": "n/a",
+        "average_lifespan": "indefinite",
+        "homeworld": null,
+        "language": "n/a",
+        "people": [
+          "http://swapi.dev/api/people/2/",
+          "http://swapi.dev/api/people/3/",
+          "http://swapi.dev/api/people/8/",
+          "http://swapi.dev/api/people/23/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/1/",
+          "http://swapi.dev/api/films/2/",
+          "http://swapi.dev/api/films/3/",
+          "http://swapi.dev/api/films/4/",
+          "http://swapi.dev/api/films/5/",
+          "http://swapi.dev/api/films/6/"
+        ],
+        "created": "2014-12-10T15:16:16.259000Z",
+        "edited": "2014-12-20T21:36:42.139000Z",
+        "url": "http://swapi.dev/api/species/2/"
+      }
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-10T15:11:50.376000Z",
+    "edited": "2014-12-20T21:17:50.311000Z",
+    "url": "http://swapi.dev/api/people/3/"
+  },
+  {
+    "name": "Darth Vader",
+    "height": "202",
+    "mass": "136",
+    "hair_color": "none",
+    "skin_color": "white",
+    "picture": "https://i.imgflip.com/40iks.jpg",
+    "eye_color": "yellow",
+    "birth_year": "41.9BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.dev/api/planets/1/",
+    "films": [
+      {
+        "title": "The Phantom Menace",
+        "episode_id": 1,
+        "opening_crawl": "Turmoil has engulfed the\r\nGalactic Republic. The taxation\r\nof trade routes to outlying star\r\nsystems is in dispute.\r\n\r\nHoping to resolve the matter\r\nwith a blockade of deadly\r\nbattleships, the greedy Trade\r\nFederation has stopped all\r\nshipping to the small planet\r\nof Naboo.\r\n\r\nWhile the Congress of the\r\nRepublic endlessly debates\r\nthis alarming chain of events,\r\nthe Supreme Chancellor has\r\nsecretly dispatched two Jedi\r\nKnights, the guardians of\r\npeace and justice in the\r\ngalaxy, to settle the conflict....",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "release_date": "1999-05-19"
+      },
+      {
+        "title": "Attack of the Clones",
+        "episode_id": 2,
+        "opening_crawl": "There is unrest in the Galactic\r\nSenate. Several thousand solar\r\nsystems have declared their\r\nintentions to leave the Republic.\r\n\r\nThis separatist movement,\r\nunder the leadership of the\r\nmysterious Count Dooku, has\r\nmade it difficult for the limited\r\nnumber of Jedi Knights to maintain \r\npeace and order in the galaxy.\r\n\r\nSenator Amidala, the former\r\nQueen of Naboo, is returning\r\nto the Galactic Senate to vote\r\non the critical issue of creating\r\nan ARMY OF THE REPUBLIC\r\nto assist the overwhelmed\r\nJedi....",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "release_date": "2002-05-16"
+      },
+      {
+        "title": "Revenge of the Sith",
+        "episode_id": 3,
+        "opening_crawl": "War! The Republic is crumbling\r\nunder attacks by the ruthless\r\nSith Lord, Count Dooku.\r\nThere are heroes on both sides.\r\nEvil is everywhere.\r\n\r\nIn a stunning move, the\r\nfiendish droid leader, General\r\nGrievous, has swept into the\r\nRepublic capital and kidnapped\r\nChancellor Palpatine, leader of\r\nthe Galactic Senate.\r\n\r\nAs the Separatist Droid Army\r\nattempts to flee the besieged\r\ncapital with their valuable\r\nhostage, two Jedi Knights lead a\r\ndesperate mission to rescue the\r\ncaptive Chancellor....",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "release_date": "2005-05-19"
+      },
+      {
+        "title": "Return of the Jedi",
+        "episode_id": 6,
+        "opening_crawl": "Luke Skywalker has returned to\r\nhis home planet of Tatooine in\r\nan attempt to rescue his\r\nfriend Han Solo from the\r\nclutches of the vile gangster\r\nJabba the Hutt.\r\n\r\nLittle does Luke know that the\r\nGALACTIC EMPIRE has secretly\r\nbegun construction on a new\r\narmored space station even\r\nmore powerful than the first\r\ndreaded Death Star.\r\n\r\nWhen completed, this ultimate\r\nweapon will spell certain doom\r\nfor the small band of rebels\r\nstruggling to restore freedom\r\nto the galaxy...",
+        "director": "Richard Marquand",
+        "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+        "release_date": "1983-05-25"
+      }
+    ],
+    "species": [],
+    "vehicles": [],
+    "starships": [
+      {
+        "name": "TIE Advanced x1",
+        "model": "Twin Ion Engine Advanced x1",
+        "manufacturer": "Sienar Fleet Systems",
+        "cost_in_credits": "unknown",
+        "length": "9.2",
+        "max_atmosphering_speed": "1200",
+        "crew": "1",
+        "passengers": "0",
+        "cargo_capacity": "150",
+        "consumables": "5 days",
+        "hyperdrive_rating": "1.0",
+        "MGLT": "105",
+        "starship_class": "Starfighter",
+        "pilots": [
+          "http://swapi.dev/api/people/4/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/1/"
+        ],
+        "created": "2014-12-12T11:21:32.991000Z",
+        "edited": "2014-12-20T21:23:49.889000Z",
+        "url": "http://swapi.dev/api/starships/13/"
+      }
+    ],
+    "created": "2014-12-10T15:18:20.704000Z",
+    "edited": "2014-12-20T21:17:50.313000Z",
+    "url": "http://swapi.dev/api/people/4/"
+  },
+  {
+    "name": "Leia Organa",
+    "height": "150",
+    "mass": "49",
+    "hair_color": "brown",
+    "skin_color": "light",
+    "picture": "https://vafloc02.s3.amazonaws.com/isyn/images/f811/img-2007811-f.jpg",
+    "eye_color": "brown",
+    "birth_year": "19BBY",
+    "gender": "female",
+    "homeworld": "http://swapi.dev/api/planets/2/",
+    "films": [
+      {
+        "title": "The Phantom Menace",
+        "episode_id": 1,
+        "opening_crawl": "Turmoil has engulfed the\r\nGalactic Republic. The taxation\r\nof trade routes to outlying star\r\nsystems is in dispute.\r\n\r\nHoping to resolve the matter\r\nwith a blockade of deadly\r\nbattleships, the greedy Trade\r\nFederation has stopped all\r\nshipping to the small planet\r\nof Naboo.\r\n\r\nWhile the Congress of the\r\nRepublic endlessly debates\r\nthis alarming chain of events,\r\nthe Supreme Chancellor has\r\nsecretly dispatched two Jedi\r\nKnights, the guardians of\r\npeace and justice in the\r\ngalaxy, to settle the conflict....",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "release_date": "1999-05-19"
+      },
+      {
+        "title": "Attack of the Clones",
+        "episode_id": 2,
+        "opening_crawl": "There is unrest in the Galactic\r\nSenate. Several thousand solar\r\nsystems have declared their\r\nintentions to leave the Republic.\r\n\r\nThis separatist movement,\r\nunder the leadership of the\r\nmysterious Count Dooku, has\r\nmade it difficult for the limited\r\nnumber of Jedi Knights to maintain \r\npeace and order in the galaxy.\r\n\r\nSenator Amidala, the former\r\nQueen of Naboo, is returning\r\nto the Galactic Senate to vote\r\non the critical issue of creating\r\nan ARMY OF THE REPUBLIC\r\nto assist the overwhelmed\r\nJedi....",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "release_date": "2002-05-16"
+      },
+      {
+        "title": "Revenge of the Sith",
+        "episode_id": 3,
+        "opening_crawl": "War! The Republic is crumbling\r\nunder attacks by the ruthless\r\nSith Lord, Count Dooku.\r\nThere are heroes on both sides.\r\nEvil is everywhere.\r\n\r\nIn a stunning move, the\r\nfiendish droid leader, General\r\nGrievous, has swept into the\r\nRepublic capital and kidnapped\r\nChancellor Palpatine, leader of\r\nthe Galactic Senate.\r\n\r\nAs the Separatist Droid Army\r\nattempts to flee the besieged\r\ncapital with their valuable\r\nhostage, two Jedi Knights lead a\r\ndesperate mission to rescue the\r\ncaptive Chancellor....",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "release_date": "2005-05-19"
+      },
+      {
+        "title": "Return of the Jedi",
+        "episode_id": 6,
+        "opening_crawl": "Luke Skywalker has returned to\r\nhis home planet of Tatooine in\r\nan attempt to rescue his\r\nfriend Han Solo from the\r\nclutches of the vile gangster\r\nJabba the Hutt.\r\n\r\nLittle does Luke know that the\r\nGALACTIC EMPIRE has secretly\r\nbegun construction on a new\r\narmored space station even\r\nmore powerful than the first\r\ndreaded Death Star.\r\n\r\nWhen completed, this ultimate\r\nweapon will spell certain doom\r\nfor the small band of rebels\r\nstruggling to restore freedom\r\nto the galaxy...",
+        "director": "Richard Marquand",
+        "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+        "release_date": "1983-05-25"
+      }
+    ],
+    "species": [],
+    "vehicles": [
+      {
+        "name": "Imperial Speeder Bike",
+        "model": "74-Z speeder bike",
+        "manufacturer": "Aratech Repulsor Company",
+        "cost_in_credits": "8000",
+        "length": "3",
+        "max_atmosphering_speed": "360",
+        "crew": "1",
+        "passengers": "1",
+        "cargo_capacity": "4",
+        "consumables": "1 day",
+        "vehicle_class": "speeder",
+        "pilots": [
+          "http://swapi.dev/api/people/1/",
+          "http://swapi.dev/api/people/5/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/3/"
+        ],
+        "created": "2014-12-18T11:20:04.625000Z",
+        "edited": "2014-12-20T21:30:21.693000Z",
+        "url": "http://swapi.dev/api/vehicles/30/"
+      }
+    ],
+    "starships": [],
+    "created": "2014-12-10T15:20:09.791000Z",
+    "edited": "2014-12-20T21:17:50.315000Z",
+    "url": "http://swapi.dev/api/people/5/"
+  },
+  {
+    "name": "Owen Lars",
+    "height": "178",
+    "mass": "120",
+    "hair_color": "brown, grey",
+    "skin_color": "light",
+    "eye_color": "blue",
+    "picture": "https://pbs.twimg.com/media/Dqx1HA0U8AAHNAE.jpg",
+    "birth_year": "52BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.dev/api/planets/1/",
+    "films": [
+      {
+        "title": "The Phantom Menace",
+        "episode_id": 1,
+        "opening_crawl": "Turmoil has engulfed the\r\nGalactic Republic. The taxation\r\nof trade routes to outlying star\r\nsystems is in dispute.\r\n\r\nHoping to resolve the matter\r\nwith a blockade of deadly\r\nbattleships, the greedy Trade\r\nFederation has stopped all\r\nshipping to the small planet\r\nof Naboo.\r\n\r\nWhile the Congress of the\r\nRepublic endlessly debates\r\nthis alarming chain of events,\r\nthe Supreme Chancellor has\r\nsecretly dispatched two Jedi\r\nKnights, the guardians of\r\npeace and justice in the\r\ngalaxy, to settle the conflict....",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "release_date": "1999-05-19"
+      },
+      {
+        "title": "The Empire Strikes Back",
+        "episode_id": 5,
+        "opening_crawl": "It is a dark time for the\r\nRebellion. Although the Death\r\nStar has been destroyed,\r\nImperial troops have driven the\r\nRebel forces from their hidden\r\nbase and pursued them across\r\nthe galaxy.\r\n\r\nEvading the dreaded Imperial\r\nStarfleet, a group of freedom\r\nfighters led by Luke Skywalker\r\nhas established a new secret\r\nbase on the remote ice world\r\nof Hoth.\r\n\r\nThe evil lord Darth Vader,\r\nobsessed with finding young\r\nSkywalker, has dispatched\r\nthousands of remote probes into\r\nthe far reaches of space....",
+        "director": "Irvin Kershner",
+        "producer": "Gary Kurtz, Rick McCallum",
+        "release_date": "1980-05-17"
+      },
+      {
+        "title": "Return of the Jedi",
+        "episode_id": 6,
+        "opening_crawl": "Luke Skywalker has returned to\r\nhis home planet of Tatooine in\r\nan attempt to rescue his\r\nfriend Han Solo from the\r\nclutches of the vile gangster\r\nJabba the Hutt.\r\n\r\nLittle does Luke know that the\r\nGALACTIC EMPIRE has secretly\r\nbegun construction on a new\r\narmored space station even\r\nmore powerful than the first\r\ndreaded Death Star.\r\n\r\nWhen completed, this ultimate\r\nweapon will spell certain doom\r\nfor the small band of rebels\r\nstruggling to restore freedom\r\nto the galaxy...",
+        "director": "Richard Marquand",
+        "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+        "release_date": "1983-05-25"
+      }
+    ],
+    "species": [],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-10T15:52:14.024000Z",
+    "edited": "2014-12-20T21:17:50.317000Z",
+    "url": "http://swapi.dev/api/people/6/"
+  },
+  {
+    "name": "Beru Whitesun lars",
+    "height": "165",
+    "mass": "75",
+    "hair_color": "brown",
+    "skin_color": "light",
+    "eye_color": "blue",
+    "picture": "https://pbs.twimg.com/media/CgftJQvUUAE8TGg.jpg",
+    "birth_year": "47BBY",
+    "gender": "female",
+    "homeworld": "http://swapi.dev/api/planets/1/",
+    "films": [
+      {
+        "title": "The Phantom Menace",
+        "episode_id": 1,
+        "opening_crawl": "Turmoil has engulfed the\r\nGalactic Republic. The taxation\r\nof trade routes to outlying star\r\nsystems is in dispute.\r\n\r\nHoping to resolve the matter\r\nwith a blockade of deadly\r\nbattleships, the greedy Trade\r\nFederation has stopped all\r\nshipping to the small planet\r\nof Naboo.\r\n\r\nWhile the Congress of the\r\nRepublic endlessly debates\r\nthis alarming chain of events,\r\nthe Supreme Chancellor has\r\nsecretly dispatched two Jedi\r\nKnights, the guardians of\r\npeace and justice in the\r\ngalaxy, to settle the conflict....",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "release_date": "1999-05-19"
+      },
+      {
+        "title": "The Empire Strikes Back",
+        "episode_id": 5,
+        "opening_crawl": "It is a dark time for the\r\nRebellion. Although the Death\r\nStar has been destroyed,\r\nImperial troops have driven the\r\nRebel forces from their hidden\r\nbase and pursued them across\r\nthe galaxy.\r\n\r\nEvading the dreaded Imperial\r\nStarfleet, a group of freedom\r\nfighters led by Luke Skywalker\r\nhas established a new secret\r\nbase on the remote ice world\r\nof Hoth.\r\n\r\nThe evil lord Darth Vader,\r\nobsessed with finding young\r\nSkywalker, has dispatched\r\nthousands of remote probes into\r\nthe far reaches of space....",
+        "director": "Irvin Kershner",
+        "producer": "Gary Kurtz, Rick McCallum",
+        "release_date": "1980-05-17"
+      },
+      {
+        "title": "Return of the Jedi",
+        "episode_id": 6,
+        "opening_crawl": "Luke Skywalker has returned to\r\nhis home planet of Tatooine in\r\nan attempt to rescue his\r\nfriend Han Solo from the\r\nclutches of the vile gangster\r\nJabba the Hutt.\r\n\r\nLittle does Luke know that the\r\nGALACTIC EMPIRE has secretly\r\nbegun construction on a new\r\narmored space station even\r\nmore powerful than the first\r\ndreaded Death Star.\r\n\r\nWhen completed, this ultimate\r\nweapon will spell certain doom\r\nfor the small band of rebels\r\nstruggling to restore freedom\r\nto the galaxy...",
+        "director": "Richard Marquand",
+        "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+        "release_date": "1983-05-25"
+      }
+    ],
+    "species": [],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-10T15:53:41.121000Z",
+    "edited": "2014-12-20T21:17:50.319000Z",
+    "url": "http://swapi.dev/api/people/7/"
+  },
+  {
+    "name": "R5-D4",
+    "height": "97",
+    "mass": "32",
+    "hair_color": "n/a",
+    "skin_color": "white, red",
+    "eye_color": "red",
+    "birth_year": "5ABY",
+    "gender": "n/a",
+    "homeworld": "http://swapi.dev/api/planets/1/",
+    "films": [
+      {
+        "title": "The Phantom Menace",
+        "episode_id": 1,
+        "opening_crawl": "Turmoil has engulfed the\r\nGalactic Republic. The taxation\r\nof trade routes to outlying star\r\nsystems is in dispute.\r\n\r\nHoping to resolve the matter\r\nwith a blockade of deadly\r\nbattleships, the greedy Trade\r\nFederation has stopped all\r\nshipping to the small planet\r\nof Naboo.\r\n\r\nWhile the Congress of the\r\nRepublic endlessly debates\r\nthis alarming chain of events,\r\nthe Supreme Chancellor has\r\nsecretly dispatched two Jedi\r\nKnights, the guardians of\r\npeace and justice in the\r\ngalaxy, to settle the conflict....",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "release_date": "1999-05-19"
+      }
+    ],
+    "species": [
+      {
+        "name": "Droid",
+        "classification": "artificial",
+        "designation": "sentient",
+        "average_height": "n/a",
+        "skin_colors": "n/a",
+        "hair_colors": "n/a",
+        "eye_colors": "n/a",
+        "average_lifespan": "indefinite",
+        "homeworld": null,
+        "language": "n/a",
+        "people": [
+          "http://swapi.dev/api/people/2/",
+          "http://swapi.dev/api/people/3/",
+          "http://swapi.dev/api/people/8/",
+          "http://swapi.dev/api/people/23/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/1/",
+          "http://swapi.dev/api/films/2/",
+          "http://swapi.dev/api/films/3/",
+          "http://swapi.dev/api/films/4/",
+          "http://swapi.dev/api/films/5/",
+          "http://swapi.dev/api/films/6/"
+        ],
+        "created": "2014-12-10T15:16:16.259000Z",
+        "edited": "2014-12-20T21:36:42.139000Z",
+        "url": "http://swapi.dev/api/species/2/"
+      }
+    ],
+    "vehicles": [],
+    "starships": [],
+    "created": "2014-12-10T15:57:50.959000Z",
+    "edited": "2014-12-20T21:17:50.321000Z",
+    "url": "http://swapi.dev/api/people/8/"
+  },
+  {
+    "name": "Biggs Darklighter",
+    "height": "183",
+    "mass": "84",
+    "hair_color": "black",
+    "skin_color": "light",
+    "eye_color": "brown",
+    "picture": "https://pbs.twimg.com/profile_images/1082149261/Biggs_darklighter_400x400.jpg",
+    "birth_year": "24BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.dev/api/planets/1/",
+    "films": [
+      {
+        "title": "The Phantom Menace",
+        "episode_id": 1,
+        "opening_crawl": "Turmoil has engulfed the\r\nGalactic Republic. The taxation\r\nof trade routes to outlying star\r\nsystems is in dispute.\r\n\r\nHoping to resolve the matter\r\nwith a blockade of deadly\r\nbattleships, the greedy Trade\r\nFederation has stopped all\r\nshipping to the small planet\r\nof Naboo.\r\n\r\nWhile the Congress of the\r\nRepublic endlessly debates\r\nthis alarming chain of events,\r\nthe Supreme Chancellor has\r\nsecretly dispatched two Jedi\r\nKnights, the guardians of\r\npeace and justice in the\r\ngalaxy, to settle the conflict....",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "release_date": "1999-05-19"
+      }
+    ],
+    "species": [],
+    "vehicles": [],
+    "starships": [
+      {
+        "name": "X-wing",
+        "model": "T-65 X-wing",
+        "manufacturer": "Incom Corporation",
+        "cost_in_credits": "149999",
+        "length": "12.5",
+        "max_atmosphering_speed": "1050",
+        "crew": "1",
+        "passengers": "0",
+        "cargo_capacity": "110",
+        "consumables": "1 week",
+        "hyperdrive_rating": "1.0",
+        "MGLT": "100",
+        "starship_class": "Starfighter",
+        "pilots": [
+          "http://swapi.dev/api/people/1/",
+          "http://swapi.dev/api/people/9/",
+          "http://swapi.dev/api/people/18/",
+          "http://swapi.dev/api/people/19/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/1/",
+          "http://swapi.dev/api/films/2/",
+          "http://swapi.dev/api/films/3/"
+        ],
+        "created": "2014-12-12T11:19:05.340000Z",
+        "edited": "2014-12-20T21:23:49.886000Z",
+        "url": "http://swapi.dev/api/starships/12/"
+      }
+    ],
+    "created": "2014-12-10T15:59:50.509000Z",
+    "edited": "2014-12-20T21:17:50.323000Z",
+    "url": "http://swapi.dev/api/people/9/"
+  },
+  {
+    "name": "Obi-Wan Kenobi",
+    "height": "182",
+    "mass": "77",
+    "hair_color": "auburn, white",
+    "skin_color": "fair",
+    "picture": "https://geekster.ru/wp-content/uploads/2019/08/Obi-Van-Kenobi-Geekster.ru_-600x333.jpg",
+    "eye_color": "blue-gray",
+    "birth_year": "57BBY",
+    "gender": "male",
+    "homeworld": "http://swapi.dev/api/planets/20/",
+    "films": [
+      {
+        "title": "A New Hope",
+        "episode_id": 4,
+        "opening_crawl": "It is a period of civil war.\r\nRebel spaceships, striking\r\nfrom a hidden base, have won\r\ntheir first victory against\r\nthe evil Galactic Empire.\r\n\r\nDuring the battle, Rebel\r\nspies managed to steal secret\r\nplans to the Empire's\r\nultimate weapon, the DEATH\r\nSTAR, an armored space\r\nstation with enough power\r\nto destroy an entire planet.\r\n\r\nPursued by the Empire's\r\nsinister agents, Princess\r\nLeia races home aboard her\r\nstarship, custodian of the\r\nstolen plans that can save her\r\npeople and restore\r\nfreedom to the galaxy....",
+        "director": "George Lucas",
+        "producer": "Gary Kurtz, Rick McCallum",
+        "release_date": "1977-05-25"
+      },
+      {
+        "title": "The Empire Strikes Back",
+        "episode_id": 5,
+        "opening_crawl": "It is a dark time for the\r\nRebellion. Although the Death\r\nStar has been destroyed,\r\nImperial troops have driven the\r\nRebel forces from their hidden\r\nbase and pursued them across\r\nthe galaxy.\r\n\r\nEvading the dreaded Imperial\r\nStarfleet, a group of freedom\r\nfighters led by Luke Skywalker\r\nhas established a new secret\r\nbase on the remote ice world\r\nof Hoth.\r\n\r\nThe evil lord Darth Vader,\r\nobsessed with finding young\r\nSkywalker, has dispatched\r\nthousands of remote probes into\r\nthe far reaches of space....",
+        "director": "Irvin Kershner",
+        "producer": "Gary Kurtz, Rick McCallum",
+        "release_date": "1980-05-17"
+      },
+      {
+        "title": "Return of the Jedi",
+        "episode_id": 6,
+        "opening_crawl": "Luke Skywalker has returned to\r\nhis home planet of Tatooine in\r\nan attempt to rescue his\r\nfriend Han Solo from the\r\nclutches of the vile gangster\r\nJabba the Hutt.\r\n\r\nLittle does Luke know that the\r\nGALACTIC EMPIRE has secretly\r\nbegun construction on a new\r\narmored space station even\r\nmore powerful than the first\r\ndreaded Death Star.\r\n\r\nWhen completed, this ultimate\r\nweapon will spell certain doom\r\nfor the small band of rebels\r\nstruggling to restore freedom\r\nto the galaxy...",
+        "director": "Richard Marquand",
+        "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+        "release_date": "1983-05-25"
+      },
+      {
+        "title": "The Phantom Menace",
+        "episode_id": 1,
+        "opening_crawl": "Turmoil has engulfed the\r\nGalactic Republic. The taxation\r\nof trade routes to outlying star\r\nsystems is in dispute.\r\n\r\nHoping to resolve the matter\r\nwith a blockade of deadly\r\nbattleships, the greedy Trade\r\nFederation has stopped all\r\nshipping to the small planet\r\nof Naboo.\r\n\r\nWhile the Congress of the\r\nRepublic endlessly debates\r\nthis alarming chain of events,\r\nthe Supreme Chancellor has\r\nsecretly dispatched two Jedi\r\nKnights, the guardians of\r\npeace and justice in the\r\ngalaxy, to settle the conflict....",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "release_date": "1999-05-19"
+      },
+      {
+        "title": "Attack of the Clones",
+        "episode_id": 2,
+        "opening_crawl": "There is unrest in the Galactic\r\nSenate. Several thousand solar\r\nsystems have declared their\r\nintentions to leave the Republic.\r\n\r\nThis separatist movement,\r\nunder the leadership of the\r\nmysterious Count Dooku, has\r\nmade it difficult for the limited\r\nnumber of Jedi Knights to maintain \r\npeace and order in the galaxy.\r\n\r\nSenator Amidala, the former\r\nQueen of Naboo, is returning\r\nto the Galactic Senate to vote\r\non the critical issue of creating\r\nan ARMY OF THE REPUBLIC\r\nto assist the overwhelmed\r\nJedi....",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "release_date": "2002-05-16"
+      },
+      {
+        "title": "Revenge of the Sith",
+        "episode_id": 3,
+        "opening_crawl": "War! The Republic is crumbling\r\nunder attacks by the ruthless\r\nSith Lord, Count Dooku.\r\nThere are heroes on both sides.\r\nEvil is everywhere.\r\n\r\nIn a stunning move, the\r\nfiendish droid leader, General\r\nGrievous, has swept into the\r\nRepublic capital and kidnapped\r\nChancellor Palpatine, leader of\r\nthe Galactic Senate.\r\n\r\nAs the Separatist Droid Army\r\nattempts to flee the besieged\r\ncapital with their valuable\r\nhostage, two Jedi Knights lead a\r\ndesperate mission to rescue the\r\ncaptive Chancellor....",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "release_date": "2005-05-19"
+      }
+    ],
+    "species": [],
+    "vehicles": [
+      {
+        "name": "Tribubble bongo",
+        "model": "Tribubble bongo",
+        "manufacturer": "Otoh Gunga Bongameken Cooperative",
+        "cost_in_credits": "unknown",
+        "length": "15",
+        "max_atmosphering_speed": "85",
+        "crew": "1",
+        "passengers": "2",
+        "cargo_capacity": "1600",
+        "consumables": "unknown",
+        "vehicle_class": "submarine",
+        "pilots": [
+          "http://swapi.dev/api/people/10/",
+          "http://swapi.dev/api/people/32/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/4/"
+        ],
+        "created": "2014-12-19T17:37:37.924000Z",
+        "edited": "2014-12-20T21:30:21.710000Z",
+        "url": "http://swapi.dev/api/vehicles/38/"
+      }
+    ],
+    "starships": [
+      {
+        "name": "Jedi starfighter",
+        "model": "Delta-7 Aethersprite-class interceptor",
+        "manufacturer": "Kuat Systems Engineering",
+        "cost_in_credits": "180000",
+        "length": "8",
+        "max_atmosphering_speed": "1150",
+        "crew": "1",
+        "passengers": "0",
+        "cargo_capacity": "60",
+        "consumables": "7 days",
+        "hyperdrive_rating": "1.0",
+        "MGLT": "unknown",
+        "starship_class": "Starfighter",
+        "pilots": [
+          "http://swapi.dev/api/people/10/",
+          "http://swapi.dev/api/people/58/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/5/",
+          "http://swapi.dev/api/films/6/"
+        ],
+        "created": "2014-12-20T17:35:23.906000Z",
+        "edited": "2014-12-20T21:23:49.930000Z",
+        "url": "http://swapi.dev/api/starships/48/"
+      },
+      {
+        "name": "Trade Federation cruiser",
+        "model": "Providence-class carrier/destroyer",
+        "manufacturer": "Rendili StarDrive, Free Dac Volunteers Engineering corps.",
+        "cost_in_credits": "125000000",
+        "length": "1088",
+        "max_atmosphering_speed": "1050",
+        "crew": "600",
+        "passengers": "48247",
+        "cargo_capacity": "50000000",
+        "consumables": "4 years",
+        "hyperdrive_rating": "1.5",
+        "MGLT": "unknown",
+        "starship_class": "capital ship",
+        "pilots": [
+          "http://swapi.dev/api/people/10/",
+          "http://swapi.dev/api/people/11/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/6/"
+        ],
+        "created": "2014-12-20T19:40:21.902000Z",
+        "edited": "2014-12-20T21:23:49.941000Z",
+        "url": "http://swapi.dev/api/starships/59/"
+      },
+      {
+        "name": "Naboo star skiff",
+        "model": "J-type star skiff",
+        "manufacturer": "Theed Palace Space Vessel Engineering Corps/Nubia Star Drives, Incorporated",
+        "cost_in_credits": "unknown",
+        "length": "29.2",
+        "max_atmosphering_speed": "1050",
+        "crew": "3",
+        "passengers": "3",
+        "cargo_capacity": "unknown",
+        "consumables": "unknown",
+        "hyperdrive_rating": "0.5",
+        "MGLT": "unknown",
+        "starship_class": "yacht",
+        "pilots": [
+          "http://swapi.dev/api/people/10/",
+          "http://swapi.dev/api/people/35/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/6/"
+        ],
+        "created": "2014-12-20T19:55:15.396000Z",
+        "edited": "2014-12-20T21:23:49.948000Z",
+        "url": "http://swapi.dev/api/starships/64/"
+      },
+      {
+        "name": "Jedi Interceptor",
+        "model": "Eta-2 Actis-class light interceptor",
+        "manufacturer": "Kuat Systems Engineering",
+        "cost_in_credits": "320000",
+        "length": "5.47",
+        "max_atmosphering_speed": "1500",
+        "crew": "1",
+        "passengers": "0",
+        "cargo_capacity": "60",
+        "consumables": "2 days",
+        "hyperdrive_rating": "1.0",
+        "MGLT": "unknown",
+        "starship_class": "starfighter",
+        "pilots": [
+          "http://swapi.dev/api/people/10/",
+          "http://swapi.dev/api/people/11/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/6/"
+        ],
+        "created": "2014-12-20T19:56:57.468000Z",
+        "edited": "2014-12-20T21:23:49.951000Z",
+        "url": "http://swapi.dev/api/starships/65/"
+      },
+      {
+        "name": "Belbullab-22 starfighter",
+        "model": "Belbullab-22 starfighter",
+        "manufacturer": "Feethan Ottraw Scalable Assemblies",
+        "cost_in_credits": "168000",
+        "length": "6.71",
+        "max_atmosphering_speed": "1100",
+        "crew": "1",
+        "passengers": "0",
+        "cargo_capacity": "140",
+        "consumables": "7 days",
+        "hyperdrive_rating": "6",
+        "MGLT": "unknown",
+        "starship_class": "starfighter",
+        "pilots": [
+          "http://swapi.dev/api/people/10/",
+          "http://swapi.dev/api/people/79/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/6/"
+        ],
+        "created": "2014-12-20T20:38:05.031000Z",
+        "edited": "2014-12-20T21:23:49.959000Z",
+        "url": "http://swapi.dev/api/starships/74/"
+      }
+    ],
+    "created": "2014-12-10T16:16:29.192000Z",
+    "edited": "2014-12-20T21:17:50.325000Z",
+    "url": "http://swapi.dev/api/people/10/"
+  }
+]
